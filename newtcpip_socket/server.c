@@ -11,8 +11,9 @@
  // 에러가 뜨면 이 헤더 파일을 추가하자 
 #define BUF_LEN 128
 
-//  터미널에서 파일을 삭제하고 싶다면 rm 파일 이름 
 
+//  터미널에서 파일을 삭제하고 싶다면 rm 파일 이름 
+// *here is commit check Point*
  
 int main(int argc, char *argv[])
 {
