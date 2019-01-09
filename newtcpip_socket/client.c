@@ -49,7 +49,7 @@ int main(int argc, char *argv[])
  
     strcpy(buf, "Hello, Server!");
     write(s, buf, strlen(buf))
-    printf(" write text for return server");//
+    printf(" write text herrrrrrre!!!!!");//
     
   
     while ((n = read(s, buf, BUF_LEN)) > 0)
